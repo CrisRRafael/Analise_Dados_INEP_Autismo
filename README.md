@@ -21,3 +21,11 @@ D - Renomear os arquivos no seguinte padrão REGIÃO_ANO.CSV:
 Ex. :MATRICULAS_CO.CSV (dados de 2018) para CENTRO-OESTE_2018.CSV
 
 E - Por fim feitos todos os procedimentos digitar no Prompt de Comando: jupyter notebook
+
+Gráfico das evoluções de todo o Brasil, o repositório apresenta os dados por região:
+
+![Repo List](brasil_barras.png)
+
+Gráfico em ordem crescente:
+
+![Repo List](brasil_linhas.png)
